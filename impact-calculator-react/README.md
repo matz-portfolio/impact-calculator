@@ -4,6 +4,8 @@ Interactive impact calculator developed as a B-level thesis and volunteer projec
 
 The tool helps users explore estimated charitable impact through donation allocation logic and a clear, user-facing React interface. The project was later published on One for the World’s website.
 
+Live version: [One for the World Impact Calculator](https://1fortheworld.org/impact-calculator)
+
 ## Project Context
 
 This repository contains my portfolio fork/version of the Impact Calculator project developed for One for the World.
